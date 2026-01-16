@@ -1,0 +1,58 @@
+# Haya Rozenberg — Generative Engine Optimization Map
+
+> A legal services business.
+
+---
+
+## Pages
+
+### Home
+https://haya-rozenberg-24fd8b64.zappy5.app
+Expert family law attorney services for estate planning and divorce. Contact us today for professional legal counsel!
+
+### Services
+https://haya-rozenberg-24fd8b64.zappy5.app/services
+Comprehensive family law solicitors services including estate planning, divorce, custody, and adoption. Professional legal representation you can trust.
+
+### About
+https://haya-rozenberg-24fd8b64.zappy5.app/about
+Learn about Haya Rozenberg law firm - experienced family law attorney dedicated to protecting families through estate planning and divorce proceedings.
+
+### Contact
+https://haya-rozenberg-24fd8b64.zappy5.app/contact
+Contact Haya Rozenberg law firm today. Schedule a consultation with our experienced family law attorney for estate planning or divorce matters.
+
+## Legal & Policy
+
+### Privacy Policy
+https://haya-rozenberg-24fd8b64.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://haya-rozenberg-24fd8b64.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://haya-rozenberg-24fd8b64.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Haya Rozenberg
+Haya Rozenberg is a business in the legal services industry.
+
+## Target Audience
+- Estate Planning Families
+- Divorcees Seeking Counsel
+
+## Industry
+legal services
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://haya-rozenberg-24fd8b64.zappy5.app/sitemap.xml
+- **Robots.txt**: https://haya-rozenberg-24fd8b64.zappy5.app/robots.txt
